@@ -17,7 +17,7 @@
     "bcrypt": "^3.0.3",
     "bluebird": "^3.5.3",
     "express": "^4.16.4",
-    "jsonwebtoken": "^8.4.0",
+    "jsonwebtoken": "^9.0.0",
     "mongoose": "^5.4.8",
     "token-extractor": "^0.1.6",
     "utf8": "^3.0.0"
